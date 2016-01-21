@@ -72,6 +72,10 @@ label.valid {
     font-size:12px;
 }
 
+.about-us {
+    margin: 10% 0 32% 0 ;
+}
+
 #email {
 	border-radius: 14px;
 	padding: 6px;
